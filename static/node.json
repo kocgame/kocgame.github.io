@@ -2,37 +2,37 @@
   {
     "nodeAddress": "0x000779f69bf39d4df8f007275cf3f90a9a07adc1",
     "ethAmount": 18794380000000000000,
-    "performance": 361176616000000000000,
+    "performance": 365791226000000000000,
     "nodeWithdrawAmount": 0
   },
   {
     "nodeAddress": "0x013d9c6275696287dac9aea8adc9b60c9bb693b7",
     "ethAmount": 18260000000000000000,
-    "performance": 269759962000000000000,
+    "performance": 275577012000000000000,
     "nodeWithdrawAmount": 0
   },
   {
     "nodeAddress": "0xc9d4cbac93465ac0ae70573608b28b7931547f19",
     "ethAmount": 12276000000000000000,
-    "performance": 184163800000000000000,
+    "performance": 227440680000000000000,
     "nodeWithdrawAmount": 0
   },
   {
     "nodeAddress": "0x1392b8efb71c49ea81745fac88211a472c7cfc63",
     "ethAmount": 13556400000000000000,
-    "performance": 141356800000000000000,
+    "performance": 141411810000000000000,
     "nodeWithdrawAmount": 0
   },
   {
     "nodeAddress": "0x4eec1f30c0c74d703789c5fa3e2ce2965261a37b",
     "ethAmount": 1760000000000000000,
-    "performance": 70392822244892899406,
+    "performance": 71183024012854882460,
     "nodeWithdrawAmount": 0
   },
   {
     "nodeAddress": "0x0cfe32f9738a817e4c5d2f42009fa5cac706de5f",
     "ethAmount": 2062874000000000000,
-    "performance": 18382930000000000000,
+    "performance": 20582950000000000000,
     "nodeWithdrawAmount": 0
   },
   {
@@ -50,7 +50,7 @@
   {
     "nodeAddress": "0x05843323123e53d12bddbae4842bf9761a2ff7dd",
     "ethAmount": 1604790000000000000,
-    "performance": 9058970000000000000,
+    "performance": 9322980000000000000,
     "nodeWithdrawAmount": 0
   },
   {
@@ -601,8 +601,8 @@
   },
   {
     "nodeAddress": "0x029f87788e1bdfb619f58b2f02be1e6dbc1959e9",
-    "ethAmount": 2534530000000000000,
-    "performance": 5264600000000000000,
+    "ethAmount": 2615650000000000000,
+    "performance": 5345720000000000000,
     "nodeWithdrawAmount": 0
   },
   {
@@ -649,8 +649,8 @@
   },
   {
     "nodeAddress": "0x0744ade986521c8f61cad5335ad6d7d0278b63c9",
-    "ethAmount": 1406040000000000000,
-    "performance": 3676060000000000000,
+    "ethAmount": 1446040000000000000,
+    "performance": 3716060000000000000,
     "nodeWithdrawAmount": 0
   },
   {
@@ -661,8 +661,8 @@
   },
   {
     "nodeAddress": "0x019397841b832b50be53d207f6124ff67322550b",
-    "ethAmount": 1749400000000000000,
-    "performance": 8725490000000000000,
+    "ethAmount": 3995440000000000000,
+    "performance": 11011530000000000000,
     "nodeWithdrawAmount": 0
   },
   {
@@ -997,8 +997,8 @@
   },
   {
     "nodeAddress": "0x0cf8d38a144f24c1200d0d6f1ee0293c9fe2eef0",
-    "ethAmount": 20845030000000000000,
-    "performance": 158173210000000000000,
+    "ethAmount": 21945040000000000000,
+    "performance": 159273220000000000000,
     "nodeWithdrawAmount": 0
   },
   {
@@ -1081,8 +1081,8 @@
   },
   {
     "nodeAddress": "0xd11f32550d1dbb2b94240b7988a21a1e7f84d220",
-    "ethAmount": 3048458000000000000,
-    "performance": 10075606000000000000,
+    "ethAmount": 3073468000000000000,
+    "performance": 10100616000000000000,
     "nodeWithdrawAmount": 0
   },
   {
@@ -1519,8 +1519,8 @@
   },
   {
     "nodeAddress": "0x37b0fe9a8eebf36152e4611cdc7e45a6d23c71e4",
-    "ethAmount": 12133070000000000000,
-    "performance": 283796046000000000000,
+    "ethAmount": 13255100000000000000,
+    "performance": 288329136000000000000,
     "nodeWithdrawAmount": 0
   },
   {
@@ -1561,14 +1561,14 @@
   },
   {
     "nodeAddress": "0xc10590a19f6b55fdd7fdd16df91f0ffc418bf1d8",
-    "ethAmount": 1102510000000000000,
-    "performance": 1102510000000000000,
+    "ethAmount": 1102910000000000000,
+    "performance": 1102910000000000000,
     "nodeWithdrawAmount": 0
   },
   {
     "nodeAddress": "0x5ed34484d52c05ad481fa519c124793b4f3d8bd1",
     "ethAmount": 1100010000000000000,
-    "performance": 3302530000000000000,
+    "performance": 3302930000000000000,
     "nodeWithdrawAmount": 0
   },
   {
@@ -1586,7 +1586,7 @@
   {
     "nodeAddress": "0xa81c607ac59b2f1fea1e9804b7f0b4746c245d46",
     "ethAmount": 1100010000000000000,
-    "performance": 6602560000000000000,
+    "performance": 6602960000000000000,
     "nodeWithdrawAmount": 0
   },
   {
@@ -1681,8 +1681,8 @@
   },
   {
     "nodeAddress": "0x646fcfd9b6b6c5496e2a164f4ad00759d78b11fc",
-    "ethAmount": 2680010000000000000,
-    "performance": 4880030000000000000,
+    "ethAmount": 2706020000000000000,
+    "performance": 4906040000000000000,
     "nodeWithdrawAmount": 0
   },
   {
@@ -1800,9 +1800,15 @@
     "nodeWithdrawAmount": 0
   },
   {
+    "nodeAddress": "0x06b7475b1ab5fcc2648b4b126276e852a38c212a",
+    "ethAmount": 1100010000000000000,
+    "performance": 1100010000000000000,
+    "nodeWithdrawAmount": 0
+  },
+  {
     "nodeAddress": "0xbc3258894169aa0c0185c8a363ac4b61988a8dc8",
     "ethAmount": 9312620000000000000,
-    "performance": 75902850000000000000,
+    "performance": 77028870000000000000,
     "nodeWithdrawAmount": 0
   },
   {
@@ -1818,9 +1824,15 @@
     "nodeWithdrawAmount": 0
   },
   {
+    "nodeAddress": "0x0f45b4b51b7a5a6186818bacb6709163c520b242",
+    "ethAmount": 4455010000000000000,
+    "performance": 4455010000000000000,
+    "nodeWithdrawAmount": 0
+  },
+  {
     "nodeAddress": "0x6e453444697941a09e2080d0a874ebe1fb04b114",
-    "ethAmount": 6090010000000000000,
-    "performance": 9940020000000000000,
+    "ethAmount": 6094020000000000000,
+    "performance": 14399040000000000000,
     "nodeWithdrawAmount": 0
   },
   {
@@ -1868,7 +1880,7 @@
   {
     "nodeAddress": "0x3789a3830a1e8642634a051d554b25613cbf1036",
     "ethAmount": 13877650000000000000,
-    "performance": 73977760000000000000,
+    "performance": 78436780000000000000,
     "nodeWithdrawAmount": 0
   },
   {
@@ -1916,7 +1928,7 @@
   {
     "nodeAddress": "0xdce0e570d85ad643c8ffc90d82289a1fecb7d766",
     "ethAmount": 10425758000000000000,
-    "performance": 109539990000000000000,
+    "performance": 113999010000000000000,
     "nodeWithdrawAmount": 0
   },
   {
@@ -2005,14 +2017,14 @@
   },
   {
     "nodeAddress": "0xb38623693d0141026ff0fdb42009355c17050266",
-    "ethAmount": 1264590000000000000,
-    "performance": 2441600000000000000,
+    "ethAmount": 1396600000000000000,
+    "performance": 2573610000000000000,
     "nodeWithdrawAmount": 0
   },
   {
     "nodeAddress": "0xf5bef7265411700472443eb7a6e02c1751f954df",
     "ethAmount": 2917290000000000000,
-    "performance": 9037090000000000000,
+    "performance": 9169100000000000000,
     "nodeWithdrawAmount": 0
   },
   {
@@ -2035,8 +2047,8 @@
   },
   {
     "nodeAddress": "0x73e979ab4f971e9349b7667339ba1cf8be772963",
-    "ethAmount": 1540030000000000000,
-    "performance": 2700040000000000000,
+    "ethAmount": 1640030000000000000,
+    "performance": 2800040000000000000,
     "nodeWithdrawAmount": 0
   },
   {
@@ -2095,8 +2107,8 @@
   },
   {
     "nodeAddress": "0x2d2d29789170702ff0112cb1568cb69f0932ce2b",
-    "ethAmount": 7900010000000000000,
-    "performance": 7900010000000000000,
+    "ethAmount": 8524820000000000000,
+    "performance": 8524820000000000000,
     "nodeWithdrawAmount": 0
   },
   {
@@ -2106,9 +2118,15 @@
     "nodeWithdrawAmount": 0
   },
   {
+    "nodeAddress": "0x7fc3e02a61a447697ca969f0d1ed472cec61b14b",
+    "ethAmount": 18700030000000000000,
+    "performance": 18700030000000000000,
+    "nodeWithdrawAmount": 0
+  },
+  {
     "nodeAddress": "0x156081310cd6ce68a61d17289efc80b89091c136",
-    "ethAmount": 8283030000000000000,
-    "performance": 19283040000000000000,
+    "ethAmount": 11055040000000000000,
+    "performance": 40755080000000000000,
     "nodeWithdrawAmount": 0
   },
   {
@@ -2166,9 +2184,15 @@
     "nodeWithdrawAmount": 0
   },
   {
+    "nodeAddress": "0xca28cc2e9fa6b1f773f2f0a02da83279e3a5ea26",
+    "ethAmount": 15400010000000000000,
+    "performance": 15400010000000000000,
+    "nodeWithdrawAmount": 0
+  },
+  {
     "nodeAddress": "0xcdec48846c967b2648196483c8750cbf8dcbc7e0",
-    "ethAmount": 3300010000000000000,
-    "performance": 3300010000000000000,
+    "ethAmount": 9020020000000000000,
+    "performance": 24420030000000000000,
     "nodeWithdrawAmount": 0
   },
   {
@@ -2180,7 +2204,7 @@
   {
     "nodeAddress": "0x009fc1358c9505a1d24ba06d042ac4dc0627ef88",
     "ethAmount": 14808240000000000000,
-    "performance": 71794820000000000000,
+    "performance": 115011690000000000000,
     "nodeWithdrawAmount": 0
   },
   {
@@ -2197,8 +2221,8 @@
   },
   {
     "nodeAddress": "0x46803477e043a6889b0134421ad099147e3caf82",
-    "ethAmount": 9158020000000000000,
-    "performance": 93052880000000000000,
+    "ethAmount": 9218030000000000000,
+    "performance": 136329760000000000000,
     "nodeWithdrawAmount": 0
   },
   {
@@ -2371,14 +2395,14 @@
   },
   {
     "nodeAddress": "0x91f53ea35fe6b696f873e43a44483508d6b2323f",
-    "ethAmount": 1320010000000000000,
-    "performance": 3498030000000000000,
+    "ethAmount": 1375020000000000000,
+    "performance": 3553040000000000000,
     "nodeWithdrawAmount": 0
   },
   {
     "nodeAddress": "0x2c47699aaafdcb50bc24c123e95d4415c811cb0e",
     "ethAmount": 4081030000000000000,
-    "performance": 21153140000000000000,
+    "performance": 21208150000000000000,
     "nodeWithdrawAmount": 0
   },
   {
@@ -2504,7 +2528,7 @@
   {
     "nodeAddress": "0x07e16cb98f81f3c69191234a5c54b0b1cf916d68",
     "ethAmount": 12025230000000000000,
-    "performance": 102632620000000000000,
+    "performance": 102687630000000000000,
     "nodeWithdrawAmount": 0
   },
   {
@@ -2546,7 +2570,7 @@
   {
     "nodeAddress": "0x3663a87cd821a238fd9ee1199199d49c338ebdc7",
     "ethAmount": 10428020000000000000,
-    "performance": 119660700000000000000,
+    "performance": 119715710000000000000,
     "nodeWithdrawAmount": 0
   },
   {
@@ -2629,74 +2653,74 @@
   },
   {
     "nodeAddress": "0x3f47bb9e17ba1a28bf69cb097d71c32c392822ef",
-    "ethAmount": 1100000000000000000,
-    "performance": 1100000000000000000,
+    "ethAmount": 1141586461470875797,
+    "performance": 1141586461470875797,
     "nodeWithdrawAmount": 0
   },
   {
     "nodeAddress": "0x3e3d2bc1a1b03bca6d4e72aaea346609b4480883",
-    "ethAmount": 1100000000000000000,
-    "performance": 1100000000000000000,
+    "ethAmount": 1141547020344168500,
+    "performance": 1141547020344168500,
     "nodeWithdrawAmount": 0
   },
   {
     "nodeAddress": "0x8e3e1ecbfcc35a8b1e62e59b505266b639dff608",
-    "ethAmount": 1100000000000000000,
-    "performance": 3300000000000000000,
+    "ethAmount": 1220000000000000000,
+    "performance": 3503133481815044297,
     "nodeWithdrawAmount": 0
   },
   {
     "nodeAddress": "0xce6dc17271921899ecf806428d102dfbd4388ba4",
-    "ethAmount": 1100000000000000000,
-    "performance": 1100000000000000000,
+    "ethAmount": 1161428778431673552,
+    "performance": 1161428778431673552,
     "nodeWithdrawAmount": 0
   },
   {
     "nodeAddress": "0xa22006cb01d6f42eef8208db9b56f38c950399dd",
-    "ethAmount": 1100000000000000000,
-    "performance": 1100000000000000000,
+    "ethAmount": 1131389633436503666,
+    "performance": 1131389633436503666,
     "nodeWithdrawAmount": 0
   },
   {
     "nodeAddress": "0x32a057e1785467aa9fe5dfa6d812210ddd476993",
-    "ethAmount": 1100000000000000000,
-    "performance": 3300000000000000000,
+    "ethAmount": 1180000000000000000,
+    "performance": 3472818411868177218,
     "nodeWithdrawAmount": 0
   },
   {
     "nodeAddress": "0xa63ef11a0adae3cc651f1bf24237b0bf71045e3c",
-    "ethAmount": 1100000000000000000,
-    "performance": 1100000000000000000,
+    "ethAmount": 1161352016948130395,
+    "performance": 1161352016948130395,
     "nodeWithdrawAmount": 0
   },
   {
     "nodeAddress": "0xa4e4c9883d4fae443692cf1ff1ec77e183665a07",
-    "ethAmount": 1100000000000000000,
-    "performance": 1100000000000000000,
+    "ethAmount": 1131313018324828087,
+    "performance": 1131313018324828087,
     "nodeWithdrawAmount": 0
   },
   {
     "nodeAddress": "0x40c284d227ebeada10b2d0a317bd1237672675be",
-    "ethAmount": 1100000000000000000,
-    "performance": 6600000000000000000,
+    "ethAmount": 1180000000000000000,
+    "performance": 6945483447141135700,
     "nodeWithdrawAmount": 0
   },
   {
     "nodeAddress": "0x2ac885ea8f23d935c46768e62ec136a410dc84a2",
-    "ethAmount": 1100000000000000000,
-    "performance": 1100000000000000000,
+    "ethAmount": 1181276640671750097,
+    "performance": 1181276640671750097,
     "nodeWithdrawAmount": 0
   },
   {
     "nodeAddress": "0x34fae44e6f7bf774ecaf1be4c8372d66a7c00322",
-    "ethAmount": 1100000000000000000,
-    "performance": 1100000000000000000,
+    "ethAmount": 1151237787301660993,
+    "performance": 1151237787301660993,
     "nodeWithdrawAmount": 0
   },
   {
     "nodeAddress": "0xb5fb632447d19b9e460dce99deb10670db9a643f",
-    "ethAmount": 1647750000000000000,
-    "performance": 13747750000000000000,
+    "ethAmount": 1648350000000000000,
+    "performance": 14429481356929591087,
     "nodeWithdrawAmount": 0
   },
   {
@@ -2911,8 +2935,8 @@
   },
   {
     "nodeAddress": "0xf93ff900c441e464592bdd995335a749b53d7974",
-    "ethAmount": 2294614110323919676,
-    "performance": 42945072244892899406,
+    "ethAmount": 2403084521356311643,
+    "performance": 43053542655925291373,
     "nodeWithdrawAmount": 0
   },
   {
@@ -2970,9 +2994,15 @@
     "nodeWithdrawAmount": 0
   },
   {
+    "nodeAddress": "0xac61b6b408506bd84820d9a49df050cd416f0a98",
+    "ethAmount": 1100010000000000000,
+    "performance": 1100010000000000000,
+    "nodeWithdrawAmount": 0
+  },
+  {
     "nodeAddress": "0xf0f843bb138b6b038b5c0a4b50a1cf69e83b935c",
     "ethAmount": 1100010000000000000,
-    "performance": 2200020000000000000,
+    "performance": 3300030000000000000,
     "nodeWithdrawAmount": 0
   },
   {
@@ -2990,13 +3020,19 @@
   {
     "nodeAddress": "0xe0a549385324078aff9ceb3e85629d31eb68e3a2",
     "ethAmount": 1100010000000000000,
-    "performance": 5500050000000000000,
+    "performance": 6600060000000000000,
+    "nodeWithdrawAmount": 0
+  },
+  {
+    "nodeAddress": "0xddb122bd84bb6c6dddbeacea0e7d13fb0d90195f",
+    "ethAmount": 1100010000000000000,
+    "performance": 1100010000000000000,
     "nodeWithdrawAmount": 0
   },
   {
     "nodeAddress": "0x2b9f7bfb5a7a7bf0ae39b32104b6950ca0542c46",
     "ethAmount": 3131410000000000000,
-    "performance": 15231520000000000000,
+    "performance": 17431540000000000000,
     "nodeWithdrawAmount": 0
   },
   {
@@ -3049,8 +3085,8 @@
   },
   {
     "nodeAddress": "0xe48bd1695f7314d31f0d9e44b819bc8ce36eaeda",
-    "ethAmount": 1100020000000000000,
-    "performance": 3300040000000000000,
+    "ethAmount": 1364030000000000000,
+    "performance": 3564050000000000000,
     "nodeWithdrawAmount": 0
   },
   {
