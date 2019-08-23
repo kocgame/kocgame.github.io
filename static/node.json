@@ -6,6 +6,12 @@
     "nodeWithdrawAmount": 0
   },
   {
+    "nodeAddress": "0xf0e6f9eb4142abc1eeaa155a10ac99ff93294b0e",
+    "ethAmount": 16308380000000000000,
+    "performance": 292200460000000000000,
+    "nodeWithdrawAmount": 0
+  },
+  {
     "nodeAddress": "0xc9d4cbac93465ac0ae70573608b28b7931547f19",
     "ethAmount": 12276000000000000000,
     "performance": 300265400000000000000,
