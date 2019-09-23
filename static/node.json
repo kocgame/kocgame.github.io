@@ -2,22 +2,22 @@
   {
     "nodeAddress": "0xc9d4cbac93465ac0ae70573608b28b7931547f19",
     "ethAmount": 17820000000000000000,
-    "performance": 612747890000001130077,
-    "nodeWithdrawAmount": 10902000000000000000,
+    "performance": 613249500000001130077,
+    "nodeWithdrawAmount": 6012000000000000000,
     "level": 6,
     "refer": "0x6fd6df175b97d2e6d651b536761e0d36b33a9495",
-    "daqu": 366.9458,
-    "xiaoqu": 226.6444
+    "daqu": 381.7651,
+    "xiaoqu": 231.4844
   },
   {
     "nodeAddress": "0x013d9c6275696287dac9aea8adc9b60c9bb693b7",
     "ethAmount": 32718400000000000000,
     "performance": 564526572000000000000,
-    "nodeWithdrawAmount": 14268000000000000000,
+    "nodeWithdrawAmount": 7718000000000000000,
     "level": 6,
     "refer": "0x740beb9fa9ccc6e971f90c25c5d5cc77063a722d",
-    "daqu": 267.1831,
-    "xiaoqu": 296.6214
+    "daqu": 267.3571,
+    "xiaoqu": 297.1695
   },
   {
     "nodeAddress": "0x000779f69bf39d4df8f007275cf3f90a9a07adc1",
@@ -32,7 +32,7 @@
   {
     "nodeAddress": "0x46803477e043a6889b0134421ad099147e3caf82",
     "ethAmount": 20429320000000000000,
-    "performance": 381263530000001130077,
+    "performance": 381765140000001130077,
     "nodeWithdrawAmount": 0,
     "level": 6,
     "refer": "0xc9d4cbac93465ac0ae70573608b28b7931547f19",
@@ -41,8 +41,8 @@
   },
   {
     "nodeAddress": "0x009fc1358c9505a1d24ba06d042ac4dc0627ef88",
-    "ethAmount": 23845910000000000000,
-    "performance": 298729650000001130077,
+    "ethAmount": 24347520000000000000,
+    "performance": 299231260000001130077,
     "nodeWithdrawAmount": 0,
     "level": 5,
     "refer": "0x46803477e043a6889b0134421ad099147e3caf82",
@@ -152,7 +152,7 @@
   {
     "nodeAddress": "0x4eec1f30c0c74d703789c5fa3e2ce2965261a37b",
     "ethAmount": 1760000000000000000,
-    "performance": 85218031634143585234,
+    "performance": 86022331634143585234,
     "nodeWithdrawAmount": 0,
     "level": 6,
     "refer": "0x8434750c01d702c9cfabb3b7c5aa2774ee67c90d",
@@ -380,22 +380,22 @@
     "xiaoqu": 0
   },
   {
+    "nodeAddress": "0xb5fb632447d19b9e460dce99deb10670db9a643f",
+    "ethAmount": 1668350000000000000,
+    "performance": 29268788978218293861,
+    "nodeWithdrawAmount": 0,
+    "level": 4,
+    "refer": "0x4eec1f30c0c74d703789c5fa3e2ce2965261a37b",
+    "daqu": 0,
+    "xiaoqu": 0
+  },
+  {
     "nodeAddress": "0x3fc2f505befacec22473c93f7025364eec2b03e6",
     "ethAmount": 3063318134568979730,
     "performance": 28550458134568979730,
     "nodeWithdrawAmount": 0,
     "level": 4,
     "refer": "0xf93ff900c441e464592bdd995335a749b53d7974",
-    "daqu": 0,
-    "xiaoqu": 0
-  },
-  {
-    "nodeAddress": "0xb5fb632447d19b9e460dce99deb10670db9a643f",
-    "ethAmount": 1668350000000000000,
-    "performance": 28485288978218293861,
-    "nodeWithdrawAmount": 0,
-    "level": 4,
-    "refer": "0x4eec1f30c0c74d703789c5fa3e2ce2965261a37b",
     "daqu": 0,
     "xiaoqu": 0
   },
@@ -690,6 +690,16 @@
     "xiaoqu": 0
   },
   {
+    "nodeAddress": "0x40c284d227ebeada10b2d0a317bd1237672675be",
+    "ethAmount": 2677909474245317781,
+    "performance": 15756661646279860073,
+    "nodeWithdrawAmount": 0,
+    "level": 3,
+    "refer": "0xb5fb632447d19b9e460dce99deb10670db9a643f",
+    "daqu": 0,
+    "xiaoqu": 0
+  },
+  {
     "nodeAddress": "0xa671b60b85c4299f4d56a0efd92ee8af99c08cac",
     "ethAmount": 4609040000000000000,
     "performance": 15609060000000000000,
@@ -706,16 +716,6 @@
     "nodeWithdrawAmount": 0,
     "level": 0,
     "refer": "0xcdec48846c967b2648196483c8750cbf8dcbc7e0",
-    "daqu": 0,
-    "xiaoqu": 0
-  },
-  {
-    "nodeAddress": "0x40c284d227ebeada10b2d0a317bd1237672675be",
-    "ethAmount": 2677909474245317781,
-    "performance": 15212661646279860073,
-    "nodeWithdrawAmount": 0,
-    "level": 3,
-    "refer": "0xb5fb632447d19b9e460dce99deb10670db9a643f",
     "daqu": 0,
     "xiaoqu": 0
   },
@@ -2830,6 +2830,16 @@
     "xiaoqu": 0
   },
   {
+    "nodeAddress": "0xa63ef11a0adae3cc651f1bf24237b0bf71045e3c",
+    "ethAmount": 3191552016948130395,
+    "performance": 3191552016948130395,
+    "nodeWithdrawAmount": 0,
+    "level": 0,
+    "refer": "0x40c284d227ebeada10b2d0a317bd1237672675be",
+    "daqu": 0,
+    "xiaoqu": 0
+  },
+  {
     "nodeAddress": "0x74fadf82b3cf11a744d31ee62a1b4db0621b1947",
     "ethAmount": 1000000000000000000,
     "performance": 3150000000000000000,
@@ -2856,16 +2866,6 @@
     "nodeWithdrawAmount": 0,
     "level": 2,
     "refer": "0x7cb0c86655bd95c25b73ae8fe16ca5e3b0e8799d",
-    "daqu": 0,
-    "xiaoqu": 0
-  },
-  {
-    "nodeAddress": "0xa63ef11a0adae3cc651f1bf24237b0bf71045e3c",
-    "ethAmount": 2941752016948130395,
-    "performance": 2941752016948130395,
-    "nodeWithdrawAmount": 0,
-    "level": 0,
-    "refer": "0x40c284d227ebeada10b2d0a317bd1237672675be",
     "daqu": 0,
     "xiaoqu": 0
   },
@@ -2930,6 +2930,16 @@
     "xiaoqu": 0
   },
   {
+    "nodeAddress": "0xa4e4c9883d4fae443692cf1ff1ec77e183665a07",
+    "ethAmount": 2734913018324828087,
+    "performance": 2734913018324828087,
+    "nodeWithdrawAmount": 0,
+    "level": 0,
+    "refer": "0x40c284d227ebeada10b2d0a317bd1237672675be",
+    "daqu": 0,
+    "xiaoqu": 0
+  },
+  {
     "nodeAddress": "0xf15931352f89cc897dfef997f1db79baf629a5b5",
     "ethAmount": 2730070000000000000,
     "performance": 2730070000000000000,
@@ -2970,12 +2980,32 @@
     "xiaoqu": 0
   },
   {
+    "nodeAddress": "0x34fae44e6f7bf774ecaf1be4c8372d66a7c00322",
+    "ethAmount": 2612237787301660993,
+    "performance": 2612237787301660993,
+    "nodeWithdrawAmount": 0,
+    "level": 0,
+    "refer": "0xb5fb632447d19b9e460dce99deb10670db9a643f",
+    "daqu": 0,
+    "xiaoqu": 0
+  },
+  {
     "nodeAddress": "0xb38623693d0141026ff0fdb42009355c17050266",
     "ethAmount": 1396600000000000000,
     "performance": 2573610000000000000,
     "nodeWithdrawAmount": 0,
     "level": 0,
     "refer": "0xf5bef7265411700472443eb7a6e02c1751f954df",
+    "daqu": 0,
+    "xiaoqu": 0
+  },
+  {
+    "nodeAddress": "0x2ac885ea8f23d935c46768e62ec136a410dc84a2",
+    "ethAmount": 2551776640671750097,
+    "performance": 2551776640671750097,
+    "nodeWithdrawAmount": 0,
+    "level": 0,
+    "refer": "0xb5fb632447d19b9e460dce99deb10670db9a643f",
     "daqu": 0,
     "xiaoqu": 0
   },
@@ -3000,42 +3030,12 @@
     "xiaoqu": 0
   },
   {
-    "nodeAddress": "0x34fae44e6f7bf774ecaf1be4c8372d66a7c00322",
-    "ethAmount": 2509637787301660993,
-    "performance": 2509637787301660993,
-    "nodeWithdrawAmount": 0,
-    "level": 0,
-    "refer": "0xb5fb632447d19b9e460dce99deb10670db9a643f",
-    "daqu": 0,
-    "xiaoqu": 0
-  },
-  {
     "nodeAddress": "0xf1f9c26d5e6e08f5fa33dcaf6a6bb113e52362c1",
     "ethAmount": 2475020000000000000,
     "performance": 2475020000000000000,
     "nodeWithdrawAmount": 0,
     "level": 0,
     "refer": "0xbc3258894169aa0c0185c8a363ac4b61988a8dc8",
-    "daqu": 0,
-    "xiaoqu": 0
-  },
-  {
-    "nodeAddress": "0xa4e4c9883d4fae443692cf1ff1ec77e183665a07",
-    "ethAmount": 2440713018324828087,
-    "performance": 2440713018324828087,
-    "nodeWithdrawAmount": 0,
-    "level": 0,
-    "refer": "0x40c284d227ebeada10b2d0a317bd1237672675be",
-    "daqu": 0,
-    "xiaoqu": 0
-  },
-  {
-    "nodeAddress": "0x2ac885ea8f23d935c46768e62ec136a410dc84a2",
-    "ethAmount": 2414876640671750097,
-    "performance": 2414876640671750097,
-    "nodeWithdrawAmount": 0,
-    "level": 0,
-    "refer": "0xb5fb632447d19b9e460dce99deb10670db9a643f",
     "daqu": 0,
     "xiaoqu": 0
   },
